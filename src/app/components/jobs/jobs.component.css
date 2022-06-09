@@ -1,0 +1,5 @@
+.job-title {
+    color: rgb(0, 8, 255);
+    text-decoration: underline;
+    cursor: pointer;
+}
